@@ -1,4 +1,3 @@
-// Same imports as before
 import { useState, useRef, useEffect } from 'react';
 import './App.css';
 import * as THREE from 'three';
